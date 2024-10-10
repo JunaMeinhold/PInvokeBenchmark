@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\juna\source\repos\PInvokeBenchmark\Cpp\build\CMakeFiles\f63e04de8fc298c97dda6b74ae3d7965\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{536AE6AE-FAC7-3FB7-A3D7-E41F6CD1E465}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,3 @@
+C:/Users/juna/source/repos/PInvokeBenchmark/Cpp/build/CMakeFiles/add.dir
+C:/Users/juna/source/repos/PInvokeBenchmark/Cpp/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/juna/source/repos/PInvokeBenchmark/Cpp/build/CMakeFiles/ZERO_CHECK.dir
